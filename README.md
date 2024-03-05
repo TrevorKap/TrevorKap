@@ -12,4 +12,4 @@ I’m passionate about geospatial science, machine learning, and mapping. My fav
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Ich spreche Deutsch
 
-<img src="images/LinkedInBanner00.png?raw=true"/>
+<img src="LinkedInBanner00.png?raw=true"/>
